@@ -1,12 +1,14 @@
 # kidscode-object-detection
 
-------
+### Overview
+
+This projects contain some simple computer vision applications and live demo (live)
 
 ### Checklist
 
 **Object Detection**
 
-- [ ] Object Detection (Yolov3)
+- [x] Object Detection (Yolov3)
 - [x] Live Web Demo (from webcam)
 
 **Teachable Machine**
