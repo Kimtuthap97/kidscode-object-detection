@@ -54,7 +54,7 @@ Okie, open any web brower, open http://0.0.0.0:5000. You could see your live cam
 ### Update Log
 
 - **29/05/2020**: Init (•‾⌣‾•)و ̑̑♡
-
+- **30/05/2020**: Deleted `requirements.txt` due to vulnerabilities warning 
 
 ### References
 
