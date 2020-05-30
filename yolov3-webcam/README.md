@@ -1,11 +1,12 @@
-# Simple COMPUTER VISION with Demo
+# Simple Object Detection with YoloV3
 
 ### Overview
 
-This project aims to create a Live Demo for Object Detection via web-cam.
+This project aims to create a Live Demo for Object Detection via web-cam.\
+
 ---
 
-##### Checklist
+#### Checklist
 
 **Object Detection**
 
@@ -19,7 +20,7 @@ This project aims to create a Live Demo for Object Detection via web-cam.
 
 [Updating]
 
-##### Getting Started
+#### Getting Started
 
 Cloning this project is the first thing you need to do
 ```
