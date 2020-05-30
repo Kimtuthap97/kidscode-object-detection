@@ -6,7 +6,6 @@ This project contains 2 simple computer vision tasks and live demo
 
 1. Object Detection
 1. Teachable Machine
-[Including images]
 
 ---
 
