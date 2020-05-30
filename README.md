@@ -42,6 +42,6 @@ Following the guideline in [Object Detection Webcam Demo](https://github.com/Kim
 
 Or following this [Teachable-Machine](https://github.com/Kimtuthap97/simple-computer-vision-demo/tree/master/teachable-machine) if you'd love to see how to teach a computer recognize simple objects.
 
-###### Acknowledgement
+### Acknowledgement
 
 This project was made during my internship at [KidsCode](https://www.kidscode.edu.vn). Thanks for **x** and **y**.
