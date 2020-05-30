@@ -16,6 +16,7 @@ This project contains 2 simple computer vision tasks and live demo
 
 - [x] Object Detection (Yolov3)
 - [x] Live Web Demo (from webcam)
+- [ ] Instruction for Pretrained model
 
 **Teachable Machine**
 - [ ] Features Extraction from Resnet 
