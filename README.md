@@ -33,31 +33,7 @@ Cloning this project is the first thing you need to do
 ```
 git clone https://github.com/Kimtuthap97/simple-computer-vision-demo.git
 ```
-Then of course, install all the requirements
-```
-pip install -r requirements.txt
-```
-(I highly recommend that you create a virtual enviroment. But I'm too tired to write how to do it here)
 
-### Object Detection with Yolov3
-```
-cd yolov3-webcam
-python web.py
-```
-Okie, open any web brower, open http://0.0.0.0:5000. You could see your live camera with object detection here.
+Following the guideline in [Object Detection Webcam Demo](https://github.com/Kimtuthap97/simple-computer-vision-demo/tree/master/teachable-machine) if you like to create a live-webcam demo
 
-#### Usage
-
-```
-```
-
-### Update Log
-
-- **29/05/2020**: Init (•‾⌣‾•)و ̑̑♡
-- **30/05/2020**: Deleted `requirements.txt` due to vulnerabilities warning 
-
-### References
-
-Web demo for Object Detection (YoloV3) is heavily borrowed from [theAIGuysCode](https://github.com/theAIGuysCode/Object-Detection-API)
-
-
+![Yolov3 Object Detection Demo with Webcam](./object-detection-demo.png)
