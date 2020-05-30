@@ -14,7 +14,11 @@ This project is inspired by [Teachable Machine](https://teachablemachine.withgoo
 
 ##### Requirements
 
+[in construction]
+
 ##### Getting Started
+
+[in construction]
 
 ### Update Log
 

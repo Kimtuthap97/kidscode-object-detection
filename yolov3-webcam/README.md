@@ -33,6 +33,10 @@ python web.py
 ```
 Okie, open any web brower, open http://0.0.0.0:5000. You could see your live camera with object detection here.
 
+Expected result should be like this
+
+![Yolov3 Object Detection Demo with Webcam](../object-detection-demo.png)
+
 ### Update Log
 
 - **29/05/2020**: Init (•‾⌣‾•)و ̑̑♡
