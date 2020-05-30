@@ -35,9 +35,9 @@ Cloning this project is the first thing you need to do
 git clone https://github.com/Kimtuthap97/simple-computer-vision-demo.git
 ```
 
-1. **Object Detection Webcam Demo**
+1. **Object Detection**
 
-	Following the guideline in [Object Detection Webcam Demo](https://github.com/Kimtuthap97/simple-computer-vision-demo/tree/master/yolov3-webcam) if you like to create a live-webcam demo
+	Following the guideline in [Object Detection](https://github.com/Kimtuthap97/simple-computer-vision-demo/tree/master/yolov3-webcam) if you like to create a live-webcam demo
 
 	![Yolov3 Object Detection Demo with Webcam](./object-detection-demo.png)
 1. **Teachable-Machine**
